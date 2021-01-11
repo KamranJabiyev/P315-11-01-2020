@@ -1,0 +1,6 @@
+E:\P315\Generic\Generic\bin\Debug\Generic.exe.config
+E:\P315\Generic\Generic\bin\Debug\Generic.exe
+E:\P315\Generic\Generic\bin\Debug\Generic.pdb
+E:\P315\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+E:\P315\Generic\Generic\obj\Debug\Generic.exe
+E:\P315\Generic\Generic\obj\Debug\Generic.pdb
