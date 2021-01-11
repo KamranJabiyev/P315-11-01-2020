@@ -1,4 +1,4 @@
-# P315-11-01-2020 - Struct-Generic type-Tuple-Collections
+# P315-11-01-2020 - Generic type-Collections
 
 https://www.tutorialsteacher.com/csharp/csharp-generics
 
